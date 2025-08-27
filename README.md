@@ -80,28 +80,32 @@
 <tr>
 <td width="50%">
 
-### 🌐 Services Website
+### 📝 Note-Making App
 
-[![Services Website](https://img.shields.io/badge/-View%20on%20GitHub-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshitagg03/services-website)
+[![Note-Making App](https://img.shields.io/badge/-View%20on%20GitHub-147efb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshit6ioy/note-making-app)
 
-A simple services website built with HTML, CSS, and JavaScript.
+A web application for creating, editing, and organizing notes efficiently with a modern UI.
 
-### 📊 DSA Project (Binary Trees & Sorting)
+### � Coupon & Discount Code Aggregator
 
-[![DSA Project](https://img.shields.io/badge/-View%20on%20GitHub-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshitagg03/dsa-project)
+[![Coupon Aggregator](https://img.shields.io/badge/-View%20on%20GitHub-147efb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshit6ioy/coupon-aggregator)
 
-A C++ project focusing on binary trees and sorting algorithms for DSA practice.
-
-### 📚 Child Rights Awareness Story
-
-[![Child Rights Story](https://img.shields.io/badge/-View%20on%20GitHub-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshitagg03/child-rights-story)
-
-A web-based story project to spread awareness about child rights.
+Aggregates the latest coupons and discount codes from various sources to help users save money while shopping online.
 
 </td>
 <td width="50%">
 
-<!-- Add more projects here if you want -->
+### 🤖 Business Consultant Chatbot
+
+[![Business Consultant Chatbot](https://img.shields.io/badge/-View%20on%20GitHub-147efb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshit6ioy/business-consultant-chatbot)
+
+An AI-powered chatbot that provides business advice, answers queries, and helps users make informed decisions.
+
+### ⚡ CPU Scheduler
+
+[![CPU Scheduler](https://img.shields.io/badge/-View%20on%20GitHub-147efb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshit6ioy/cpu-scheduler)
+
+A Python-based CPU scheduling algorithm for optimized performance and resource management.
 
 </td>
 </tr>
