@@ -112,15 +112,15 @@ A web-based story project to spread awareness about child rights.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshit6ioy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=147efb&icon_color=147efb" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manpreetsidhhu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=147efb&icon_color=147efb" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit6ioy&theme=radical&hide_border=true&background=0D1117&stroke=147efb&ring=147efb&fire=147efb&currStreakLabel=147efb" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manpreetsidhhu&theme=radical&hide_border=true&background=0D1117&stroke=147efb&ring=147efb&fire=147efb&currStreakLabel=147efb" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit6ioy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=147efb" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manpreetsidhhu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=147efb" alt="Top Languages" />
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50" height="50" />
