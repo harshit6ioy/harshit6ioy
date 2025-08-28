@@ -1,178 +1,241 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=200&section=header&text=Harshit%20Aggarwal&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=3rd%20Year%20B.Tech%20CSE%20Student%20at%20LPU&descAlignY=55&descAlign=50" alt="Harshit Aggarwal - Full Stack Developer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:667eea,100:764ba2&height=180&section=header&text=HARSHIT%20AGGARWAL&fontSize=35&fontColor=fff&animation=scaleIn&fontAlignY=55&desc=Computer%20Science%20Student%20%7C%20Problem%20Solver&descAlignY=75&descSize=16" />
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Harshit+Aggarwal;3rd-year+B.Tech+CSE+Student+at+LPU;Full-Stack+Web+Developer;UI/UX+Design+Enthusiast&center=true&size=30&color=58A6FF">
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&height=70&lines=B.Tech+CSE+3rd+Year+at+LPU;Passionate+about+DSA+and+Web+Development;Always+Learning+New+Technologies" alt="Dynamic Typing" />
+</p>
 
 <div align="center">
-  <div>
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="300" />
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Developer Working" width="300" />
-  </div>
-  <br/>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="80" height="80" />
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="80" height="80" />
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80" height="80" />
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80" height="80" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-## 🚀 About Me
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> *About Me*
 
-- 🎓 Third-year B.Tech CSE student at **Lovely Professional University (LPU)**
-- 💻 Passionate about Data Structures & Algorithms (DSA), C++, and web development
-- 🌱 Learning advanced programming, problem solving, and cloud computing
-- 🚀 Love building projects and exploring new tech
-- 🤝 Always open to collaboration and new ideas!
+<img align="right" alt="Coding" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-## 🛠️ Tech Stack
+json
+{
+  "name": "Harshit Aggarwal",
+  "location": "India",
+  "education": "B.Tech CSE at LPU (3rd Year)",
+  "interests": [
+    "Data Structures & Algorithms",
+    "Web Development", 
+    "Problem Solving"
+  ],
+  "currentlyLearning": "Cloud Computing",
+  "goals": "Internship opportunities"
+}
+
+
+<details>
+<summary><b>🔍 More Details</b></summary>
+
+<br>
+
+- 🎓 *Studying* Computer Science Engineering at Lovely Professional University
+- 💻 *Focused on* Data Structures & Algorithms and Web Development
+- 🌱 *Learning* Cloud Computing through NPTEL
+- 🏆 *Certified* in C++, Web Designing, and Network Computing
+- 🎯 *Looking for* internship opportunities to apply my skills
+
+</details>
 
 <div align="center">
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="35" height="35" />
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="35" height="35" />
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/-Responsive%20Design-FF6B6B?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & Database
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Technologies
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-## 🎓 Certificates
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35"> *Technologies I Know*
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Bits%20and%20Bytes%20Network%20Computing-Coursera-58A6FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Introduction%20to%20Hardware%20and%20Operating%20Systems-Coursera-58A6FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ISO%20Certification%20in%20C++-GTB%20Institute,%20Jalandhar-FFD700?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Web%20Designing%20(HTML,%20CSS,%20JS)-GTB%20Institute,%20Jalandhar-FFD700?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Cloud%20Computing-NPTEL-58A6FF?style=for-the-badge" />
+### *Programming Languages*
+<p>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### *Web Technologies*
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+### *Database & Tools*
+<p>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
 </div>
 
-## 🌟 Featured Projects
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+## 🏅 *My Certifications*
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%">
-
-### 📝 Note-Making App
-
-[![Note-Making App](https://img.shields.io/badge/-View%20on%20GitHub-147efb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshit6ioy/note-making-app)
-
-A web application for creating, editing, and organizing notes efficiently with a modern UI.
-
-### � Coupon & Discount Code Aggregator
-
-[![Coupon Aggregator](https://img.shields.io/badge/-View%20on%20GitHub-147efb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshit6ioy/coupon-aggregator)
-
-Aggregates the latest coupons and discount codes from various sources to help users save money while shopping online.
-
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
+<h4>📡 Bits and Bytes Network Computing</h4>
+<p><i>Network Computing Fundamentals</i></p>
 </td>
-<td width="50%">
-
-### 🤖 Business Consultant Chatbot
-
-[![Business Consultant Chatbot](https://img.shields.io/badge/-View%20on%20GitHub-147efb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshit6ioy/business-consultant-chatbot)
-
-An AI-powered chatbot that provides business advice, answers queries, and helps users make informed decisions.
-
-### ⚡ CPU Scheduler
-
-[![CPU Scheduler](https://img.shields.io/badge/-View%20on%20GitHub-147efb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshit6ioy/cpu-scheduler)
-
-A Python-based CPU scheduling algorithm for optimized performance and resource management.
-
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
+<h4>💾 Hardware & Operating Systems</h4>
+<p><i>System Architecture & OS Concepts</i></p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/ISO-FF6B35?style=for-the-badge&logo=iso&logoColor=white" />
+<h4>⚡ ISO Certification in C++</h4>
+<p><i>GTB Institute</i></p>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/GTB-28A745?style=for-the-badge&logo=html5&logoColor=white" />
+<h4>🎨 Web Designing</h4>
+<p><i>GTB Institute</i></p>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<img src="https://img.shields.io/badge/NPTEL-FF6B35?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<h4>☁️ Cloud Computing</h4>
+<p><i>Currently Learning</i></p>
 </td>
 </tr>
 </table>
 
 </div>
 
-## 📊 GitHub Stats
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+## 💼 *My Projects*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshit6ioy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=147efb&icon_color=147efb" alt="GitHub Stats" />
+
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>📝 Note-Making App</h3>
+<p><i>A clean and intuitive note-taking application</i></p>
+<p>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+<a href="https://github.com/harshit6ioy/note-making-app">
+<img src="https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
+<td width="50%" align="center">
+<h3>🎫 Coupon Aggregator</h3>
+<p><i>Platform for collecting and organizing coupons</i></p>
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
+<a href="https://github.com/harshit6ioy/coupon-aggregator">
+<img src="https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<h3>🤖 Business Consultant Chatbot</h3>
+<p><i>AI chatbot for business consultation</i></p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+</p>
+<a href="https://github.com/harshit6ioy/business-consultant-chatbot">
+<img src="https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
+<td width="50%" align="center">
+<h3>⚡ CPU Scheduler</h3>
+<p><i>Implementation of CPU scheduling algorithms</i></p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Algorithms-28A745?style=flat-square&logo=algolia&logoColor=white" />
+</p>
+<a href="https://github.com/harshit6ioy/cpu-scheduler">
+<img src="https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
+</tr>
+</table>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit6ioy&theme=radical&hide_border=true&background=0D1117&stroke=147efb&ring=147efb&fire=147efb&currStreakLabel=147efb" alt="GitHub Streak" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit6ioy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=147efb" alt="Top Languages" />
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50" height="50" />
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50" height="50" />
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" height="50" />
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" height="50" />
-</div>
-
-## 🎯 Current Focus
-
-```javascript
-const harshit = {
-  code: ["C", "C++", "Java", "Python", "HTML", "CSS", "JavaScript"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Vanilla JS"],
-      css: ["Tailwind CSS", "CSS3", "Responsive Design"],
-    },
-    backEnd: {
-      js: ["Node.js", "Express"],
-      python: ["Flask", "Django"],
-    },
-    databases: ["MongoDB", "MySQL"],
-    tools: ["Git", "GitHub", "VS Code", "Figma"],
-  },
-  currentProject: "Building amazing web applications",
-  funFact: "I debug with console.log() and I'm not ashamed! 😄",
-};
-```
-
-## 🤝 Connect with Me
+## 📈 *GitHub Statistics*
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshitaggarwal7/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/zAJE9ahvne/)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/aggarwalharshit8)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aggarwalharshit865@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshit6ioy)
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshit6ioy&show_icons=true&theme=radical&hide_border=true&border_radius=10" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit6ioy&theme=radical&hide_border=true&border_radius=10" />
+
+<br><br>
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit6ioy&layout=compact&theme=radical&hide_border=true&border_radius=10" />
 
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+## 🤝 *Connect With Me*
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshit6ioy&color=58A6FF&style=for-the-badge" alt="Profile Views" />
+
+<a href="https://www.linkedin.com/in/harshitaggarwal7/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/zAJE9ahvne/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://www.hackerrank.com/profile/aggarwalharshit8">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+
+<br><br>
+
+<a href="mailto:aggarwalharshit865@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/harshit6ioy">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=harshit6ioy&style=for-the-badge&color=blueviolet" />
+
 </div>
 
 <div align="center">
-  <h3>⭐ From <a href="https://github.com/harshit6ioy">harshit6ioy</a> with ❤️</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=fadeIn&fontAlignY=75" />
+</div>
+
+<div align="center">
+  <h3>✨ <b>Let's connect and collaborate!</b> ✨</h3>
+  <sub>Made with 💙 by Harshit Aggarwal</sub>
 </div>
